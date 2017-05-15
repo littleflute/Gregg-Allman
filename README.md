@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/Gregg-Allman/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/Gregg-Allman/edit/master/README.md)
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/Gregg-Allman/Low country blues/cd/01_曲目 1.mp3" type="audio/mpeg">
@@ -9,8 +9,8 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
-html += " ABBA<br>ABBA gold<br>CD:<br>";
-for(var n=1; n<=19; n++)
+html += " Gregg-Allman<br>Low country blues<br>CD:<br>";
+for(var n=1; n<=12; n++)
 {	
  	html += fNewBtn(n);
 
