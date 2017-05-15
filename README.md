@@ -1,4 +1,6 @@
-[v0.0.4](https://github.com/littleflute/Gregg-Allman/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/Gregg-Allman/edit/master/README.md)
+
+[https://github.com/littleflute/blog/issues/46](https://github.com/littleflute/blog/issues/46)
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/Gregg-Allman/Low country blues/cd/01_曲目 1.mp3" type="audio/mpeg">
